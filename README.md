@@ -18,7 +18,7 @@ I then began making the model for the data. I always start by making a baseline 
 ## The Application
 I built a simple application using streamlit and deployed it using streamlit share. The application can be viewed [here](https://medium.com/r/?url=https%3A%2F%2Fshare.streamlit.io%2Faristotle609%2Fkickstarter%2Fmain%2Fmain.py).
 ![](https://cdn-images-1.medium.com/max/800/1*6dlUg0M4ZI95sagoDMn8QA.png)
-##Endnote
+## Endnote
 This project is a part of my series 25 projects challenge. If you want to see more of these or want to take part yourself, please visit the [introduction page](https://medium.com/r/?url=https%3A%2F%2Fkeeganfdes03.medium.com%2Ff2150afe053%3Fsource%3Dfriends_link%26sk%3D5ae10ad6072aa80c0f1ed3865a0196a8).
 Thank you for reading this far.
 
